@@ -13,7 +13,7 @@ Welcome to My Bookshelf App! This application allows users to search for books a
 
 ## Technologies Used
 
-- React.js
+- React.js + vite
 - JavaScript
 - HTML
 - CSS
@@ -31,8 +31,8 @@ Install dependencies:
 npm install
 Start the development server:
 
-npm start
-Open http://localhost:3000 to view the app in your browser.
+npm run dev
+Open http://localhost:5173 to view the app in your browser.
 Usage
 Enter a search query in the search bar to find books.
 Click on "Add to Bookshelf" to add a book to your personal bookshelf.
