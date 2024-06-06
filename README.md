@@ -9,6 +9,8 @@ Welcome to My Bookshelf App! This application allows users to search for books a
 - **Add to Bookshelf:** Add books to your personal bookshelf.
 - **Remove from Bookshelf:** Remove books from your bookshelf.
 
+![WhatsApp Image 2024-06-06 at 6 13 27 AM](https://github.com/PriyakumariYt/BookShelf_Assignment/assets/127418517/96b6b7d8-26ce-4fe1-82e7-cd99f5b3bc34)
+
 ## Technologies Used
 
 - React.js
