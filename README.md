@@ -1,6 +1,7 @@
 # My Bookshelf App
 
 Welcome to My Bookshelf App! This application allows users to search for books and add them to their personal bookshelves.
+![WhatsApp Image 2024-06-06 at 6 13 28 AM](https://github.com/PriyakumariYt/BookShelf_Assignment/assets/127418517/cb1baec6-b852-4970-b859-acdafc9f86d9)
 
 ## Features
 
